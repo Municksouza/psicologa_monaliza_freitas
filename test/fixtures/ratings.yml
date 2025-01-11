@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  psychologist: one
+  score: 1
+  comment: MyText
+
+two:
+  patient: two
+  psychologist: two
+  score: 1
+  comment: MyText

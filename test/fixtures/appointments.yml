@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  patient: one
+  availability: one
+  date: 2025-01-10
+  start_time: 2025-01-10 22:01:34
+  end_time: 2025-01-10 22:01:34
+  status: MyString
+
+two:
+  patient: two
+  availability: two
+  date: 2025-01-10
+  start_time: 2025-01-10 22:01:34
+  end_time: 2025-01-10 22:01:34
+  status: MyString
